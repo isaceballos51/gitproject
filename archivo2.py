@@ -5,4 +5,5 @@ def principal():
     print("su nombre es:\n",nom,ap,)
     print("su celular:\n",cel)
     print("GRACIAS")
+    #cambie el gracias
 principal()
